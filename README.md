@@ -16,7 +16,7 @@ ddos tools freeeeeeee for anywhere
 * `git clone https://github.com/mishakorzik/Ultra-DDos`
 * `pip3 install requests`
 
-<img src="https://github.com/user-attachments/assets/9b418db0-184d-4667-9b0a-ec6ba3b556b0" width="600" height="400" />
+<img src="https://github.com/user-attachments/assets/6a237d13-910d-4b10-9519-3cdf2c50f13e" width="600" height="400" />
 
 #### Finished you have successfully downloaded Ultra-DDos now to launch!
 
