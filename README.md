@@ -1,7 +1,7 @@
 # ostovar-ddos
 ddos tools freeeeeeee for anywhere
 
-<img src="https://github.com/user-attachments/assets/595685a6-46c8-4b67-8b3c-299a533f9621" width="600" height="400" />
+<img src="https://github.com/user-attachments/assets/9a29b97d-cb1c-47c9-a5c3-7475be9170ce" width="600" height="400" />
 
 ----
 
