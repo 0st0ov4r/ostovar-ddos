@@ -16,7 +16,7 @@ ddos tools freeeeeeee for anywhere
 * `git clone https://github.com/mishakorzik/Ultra-DDos`
 * `pip3 install requests`
 
-<img src="https://github.com/user-attachments/assets/6a237d13-910d-4b10-9519-3cdf2c50f13e" width="600" height="400" />
+<img src="" width="600" height="400" />
 
 #### Finished you have successfully downloaded Ultra-DDos now to launch!
 
@@ -26,9 +26,8 @@ ddos tools freeeeeeee for anywhere
 
 ## Dependencies
 
-```
-Wifi   : True
-Root   : No Root
-Storage: 34 MB
-Package: 154 MB
-```
+* 'Wifi   : True'
+* 'Root   : No Root'
+* 'Storage: 34 MB'
+* 'Package: 154 MB'
+
